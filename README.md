@@ -1,17 +1,9 @@
 ## Tim Spann's Github Repos
 
-See you at DataWorks Summit 2019 in DC
+Thanks for coming to DataWorks Summit 2019 in DC and Barcelona.
 
-# Header 1
-## Header 2
-### Header 3
+See you at Strata NYC 2019
 
-- Bulleted
-- List
+![alt text](https://avatars1.githubusercontent.com/u/18673814?s=460&v=4 "Tim Spann")
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+https://github.com/tspannhw?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=
