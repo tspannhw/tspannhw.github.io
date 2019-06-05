@@ -11,4 +11,3 @@ See you at Strata NYC 2019!
 [Open Source Computer Vision](https://github.com/tspannhw/OpenSourceComputerVision)
 
 [Data in Motion](https://www.datainmotion.dev/)
-
